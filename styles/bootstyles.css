@@ -1,0 +1,21 @@
+/*!Kevin Clove 12/09/2021*/
+p{
+    font-size: large;
+    color: navy;
+}
+header{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+footer{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 10px;
+}
+body{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
